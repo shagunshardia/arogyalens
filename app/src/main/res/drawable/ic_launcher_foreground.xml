@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Focus Ring -->
+    <path
+        android:pathData="M38,26 C30,26 26,30 26,38 L26,44"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00B4D8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M70,26 C78,26 82,30 82,38 L82,44"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00B4D8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M26,64 L26,70 C26,78 30,82 38,82"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00B4D8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M82,64 L82,70 C82,78 78,82 70,82"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00B4D8"
+        android:strokeLineCap="round" />
+    
+    <!-- Medical Cross Shield Center -->
+    <path
+        android:pathData="M48,36 L60,36 C62,36 64,38 64,40 L64,48 L72,48 C74,48 76,50 76,52 L76,60 C76,62 74,64 72,64 L64,64 L64,72 C64,74 62,76 60,76 L48,76 C46,76 44,74 44,72 L44,64 L36,64 C34,64 32,62 32,60 L32,52 C32,50 34,48 36,48 L44,48 L44,40 C44,38 46,36 48,36 Z"
+        android:fillColor="#00B4D8" />
+    
+    <!-- Pulse Line Inside -->
+    <path
+        android:pathData="M38,55 L46,55 L50,47 L54,63 L58,52 L62,56 L70,55"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
